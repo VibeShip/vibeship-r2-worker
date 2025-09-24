@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "aws4fetch": "^1.15.0"
+  },
+  "devDependencies": {
+    "wrangler": "3.x.x"
+  }
+}
